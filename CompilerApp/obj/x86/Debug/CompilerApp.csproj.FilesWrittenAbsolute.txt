@@ -1,0 +1,5 @@
+/Users/slogger/Documents/Projects/CSharp/CompilerApp/CompilerApp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/slogger/Documents/Projects/CSharp/CompilerApp/CompilerApp/bin/Debug/CompilerApp.exe.mdb
+/Users/slogger/Documents/Projects/CSharp/CompilerApp/CompilerApp/bin/Debug/CompilerApp.exe
+/Users/slogger/Documents/Projects/CSharp/CompilerApp/CompilerApp/obj/x86/Debug/CompilerApp.exe
+/Users/slogger/Documents/Projects/CSharp/CompilerApp/CompilerApp/obj/x86/Debug/CompilerApp.exe.mdb
